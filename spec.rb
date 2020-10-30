@@ -11,7 +11,7 @@
 # We've already sketched out the spec descriptions for the #full_name. Try
 # building the specs for that method, watch them fail, then write the code to
 # make them pass. Then move on to the other two methods, but this time you'll
-# create the descriptions to match the requirements above.
+# create the descriptions to match the requirements above!
 
 class Person
     def initialize(first_name:, middle_name: nil, last_name:)
